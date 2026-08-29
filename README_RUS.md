@@ -1,4 +1,4 @@
-[English version](README.md)
+[English version](README.md) · **[Резюме](https://cv.lomamord.ru/)**
 
 # Игорь Корнилов
 
