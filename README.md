@@ -1,4 +1,4 @@
-[Русская версия](README_RUS.md) · **[Resume](https://cv.lomamord.ru/)**
+[Русская версия](README_RUS.md) · **[Resume](https://cv.kote.dev/)**
 
 # Igor Kornilov
 
